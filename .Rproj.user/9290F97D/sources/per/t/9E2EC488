@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595852594072.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1770184442",
+    "id" : "9E2EC488",
+    "lastKnownWriteTime" : 1596149869,
+    "last_content_update" : 1596149869696,
+    "path" : "~/Documents/app1wStorage/computing_model_2.R",
+    "project_path" : "computing_model_2.R",
+    "properties" : {
+        "cursorPosition" : "215,10",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

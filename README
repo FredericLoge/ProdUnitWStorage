@@ -1,0 +1,5 @@
+Finir application avec stockage pour avoir graphiques!
+- oracle (modele 1)
+- estimer les coefficients \beta **non** task-driven: modele lineaire classique (modele 1 avec decision basee sur la prediction)
+- estimer les coefficients \beta **oui** task-driven: modele lineaire classique (modele 1 avec decision basee sur la prediction)
+- optimisation globale a partir de l'information imparfaite: relancer modele 1 en donnant en entree la demande du jour passee et en observant la reward associe a la demande realisee.

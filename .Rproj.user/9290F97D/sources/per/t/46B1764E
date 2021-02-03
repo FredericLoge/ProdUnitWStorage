@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595607647582.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3753616071",
+    "id" : "46B1764E",
+    "lastKnownWriteTime" : 1596149084,
+    "last_content_update" : 1596149084211,
+    "path" : "~/Documents/app1wStorage/linearmodel_model1.R",
+    "project_path" : "linearmodel_model1.R",
+    "properties" : {
+        "cursorPosition" : "233,14",
+        "scrollLine" : "0",
+        "tempName" : "Untitled3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

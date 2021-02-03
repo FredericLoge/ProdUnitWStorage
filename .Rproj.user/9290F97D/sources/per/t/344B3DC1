@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595604952883.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2560812379",
+    "id" : "344B3DC1",
+    "lastKnownWriteTime" : 1596201428,
+    "last_content_update" : 1596201428228,
+    "path" : "~/Documents/app1wStorage/Untitled.R",
+    "project_path" : "Untitled.R",
+    "properties" : {
+        "cursorPosition" : "76,0",
+        "scrollLine" : "69",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
